@@ -38,5 +38,7 @@ a:hover {
 }
 
 a:active {
-  background-color: #f6f2f3;
+  color: white;
+  text-shadow: 0px 0px 10px #000000;
 }
+
